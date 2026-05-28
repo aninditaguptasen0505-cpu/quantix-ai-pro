@@ -1,5 +1,7 @@
 export default function Home() {
   return (
-    <h1>Hello Quantix AI</h1>
+    <div>
+      <h1>Hello Quantix AI</h1>
+    </div>
   )
 }
