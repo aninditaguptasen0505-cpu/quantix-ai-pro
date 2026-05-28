@@ -10,13 +10,17 @@ export default function Home() {
         textAlign: "center",
       }}
     >
-      <h1 style={{ color: "#ff007f" }}>SELL</h1>
+      <h1 style={{ color: "#ff007f" }}>
+        SELL
+      </h1>
 
       <p style={{ color: "#00d4ff" }}>
         Confidence 95%
       </p>
 
-      <p>AI Predicts Next Candle RED</p>
+      <p>
+        AI Predicts Next Candle RED
+      </p>
 
       <h3 style={{ marginTop: "30px" }}>
         QUOTEX LIVE CHART
